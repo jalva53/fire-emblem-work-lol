@@ -1,2 +1,2 @@
 # fire-emblem-work-lol
-data visualizationsfor fire emblem csvs
+data visualizations for fire emblem csvs
